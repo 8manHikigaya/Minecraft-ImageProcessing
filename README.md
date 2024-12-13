@@ -1,3 +1,3 @@
 # Minecraft-ImageProcessing
 
-[output](output-1.png)
+![output](output-1.png)
