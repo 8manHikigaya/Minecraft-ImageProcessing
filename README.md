@@ -12,5 +12,7 @@ This project utilizes OpenCV to identify diamond-like objects in Minecraft by is
 * OpenCV: For image processing and color detection
 * mss: For screen capturing in real-time
 * NumPy: For efficient matrix operations
-* 
+  
+# Output 
+
 ![output](output-1.png)
